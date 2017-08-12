@@ -42,7 +42,7 @@
 	</section>
 
 	<footer>
-		<p class="copyright">Galeria creada por Carlos Arturo - FalconMasters</p>
+		<p class="copyright"></p>
 	</footer>
 </body>
 </html>
